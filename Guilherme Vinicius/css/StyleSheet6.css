@@ -1,0 +1,602 @@
+﻿body {
+    margin: auto;
+}
+
+.geral {
+    background-color: white;
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#branco {
+    margin-left: 100px;
+    margin-top: 200px;
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    box-shadow: 0px 45px 100px rgb(0, 0, 0);
+}
+
+#vi {
+    width: 550px;
+    height: 450px;
+    margin-left: 675px;
+    margin-top: -450px;
+    position: absolute;
+}
+
+#one {
+    font-family: Calibri;
+    color: #595959;
+    font-size: 37px;
+    margin-top: -20px;
+    margin-left: 40px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 420px;
+    box-sizing: border-box;
+    border-bottom: 1px solid gray;
+}
+
+strong {
+    color: #f2b513;
+}
+
+.txt {
+    font-family: Calibri;
+    font-size: 20px;
+    color: #595959;
+    width: 370px;
+    margin-left: 45px;
+    font-weight: bold;
+    padding-left: 40px;
+   margin-top: 500px;
+}
+#off{
+    margin-top: 30px;
+    margin-left: 30px;
+   padding-bottom: 40px;
+    border-bottom: 1px solid gray;
+}
+
+.bot {
+    font-family: Calibri;
+    font-size: 20px;
+    color: #595959;
+    border: solid 1.5px gray;
+    width: 160px;
+    box-sizing: border-box;
+    height: 50px;
+    border-radius: 50px;
+    padding-left: 35px;
+    padding-top: 10px;
+    margin-left: 50px;
+}
+
+    .bot:hover {
+        background-color: #f2b513;
+        color: white;
+        border: solid 1.5px white;
+    }
+
+#gg {
+    width: 100%;
+    height: 500px;
+    margin-top: 00px;
+}
+
+#cab {
+    margin-top: -490px;
+}
+
+#logo{
+    margin-left:60px;
+    margin-top:60px;
+    width: 100px;
+    height: 100px;
+
+}
+
+.cabeçalho {
+    position: absolute;
+    color:black;
+    font-family:Calibri;
+    margin-left:50px;
+    font-size:25px;
+    margin-top:-0px;
+    transition-duration:0.5s;
+}
+.cabeçalho:hover {
+    color: #f2b513;
+
+}
+#home{
+    
+    margin-top: 100px;
+    margin-left:100px;
+    position: absolute;
+}
+#about1 {
+    margin-top: 100px;
+    margin-left:250px;
+    position: absolute;;
+        
+}
+#service {
+    margin-top: 100px;
+    margin-left:330px;
+    position: absolute;
+}
+#contact{
+    margin-top: 100px;
+    margin-left:330px;
+    position: absolute;
+
+}
+#branco{
+    margin-left:100px;
+    margin-top:50px;
+    background-color:white;
+    width:500px;
+    height:500px;
+    box-shadow:0px 45px 100px rgb(0, 0, 0);
+}
+#about{
+    color:#959595;
+    font-family:Calibri;
+    margin-left:50px;
+    padding-top:45px;
+
+    font-size:20px
+}
+#one{
+    font-family:Calibri;
+    color:#595959;
+    font-size:37px;
+
+    margin-top:-20px;
+    margin-left:40px;
+    padding-left:10px;
+    padding-bottom:10px;
+    width:420px;
+    box-sizing:border-box;
+    border-bottom:1px solid gray;
+}
+strong{
+    color:#f2b513;
+}
+#vi {
+    width: 550px;
+    height: 450px;
+   
+    margin-top: -475px;
+    position: absolute;
+     box-shadow:0px 50px 100px rgb(0, 0, 0);
+}
+.txt{
+    font-family:Calibri;
+    font-size:20px;
+    color:#595959;
+    margin-top: -30px;   
+    width:370px;
+    margin-left:45px;
+    font-weight:bold;
+    padding-left:40px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;  
+    border-bottom: :1px solid gray;
+
+}
+
+}
+.bot{
+    font-family:Calibri;
+    font-size:20px;
+    color:#595959;
+    border:solid 1.5px gray;
+    width:160px;
+    box-sizing: border-box;
+    height:50px;
+    border-radius:50px;
+    padding-left:35px;
+    padding-top:10px;
+    margin-left:50px;
+}
+.bot:hover{
+    background-color:#f2b513;
+    color:white;
+    border:solid 1.5px white;
+}
+
+a{
+    text-decoration:none;
+}
+
+
+#about {
+    color: #959595;
+    font-family: Calibri;
+    margin-left: 50px;
+    padding-top: 45px;
+    font-size: 20px
+}
+
+
+
+
+#dd {
+    font-family: Calibri;
+    color: black;
+    font-size: 37px;
+    margin-left: 100px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 620px;
+    margin-top: -20px;
+}
+
+strong {
+    color: #f2b513;
+}
+
+#or {
+    margin-left: 100px;
+    color: gray;
+    margin-top: 200px;
+    font-family: Calibri;
+    font-size: 20px
+}
+
+#mc1 {
+    margin-left: 200px;
+    width: 100px;
+    height:100px;   
+}
+#mc2{
+    margin-left: 290px;
+}
+#mc3{
+    margin-left: 230px;
+}
+
+#mc11 {
+    color: black;
+    font-family: Calibri;
+    font-size: 30px;
+    margin-top: -0px;
+    margin-left: 160px;
+}
+
+    #mc11:hover {
+        color: #f2b513;
+    }
+
+#mc22 {
+    color: black;
+    font-family: Calibri;
+    font-size: 30px;
+    margin-top: -70px;
+    margin-left: 550px;
+}
+
+    #mc22:hover {
+        color: #f2b513;
+    }
+
+#mc33 {
+    color: black;
+    font-family: Calibri;
+    font-size: 30px;
+    margin-top: -70px;
+    margin-left: 910px;
+}
+
+    #mc33:hover {
+        color: #f2b513;
+    }
+
+#t1 {
+    font-size: 20px;
+    margin-top: -25px;
+    margin-left: 160px;
+    color: black;
+    font-family: Calibri;
+}
+
+#t2 {
+    font-size: 20px;
+    margin-top: -45px;
+    margin-left: 550px;
+    color: black;
+    font-family: Calibri;
+}
+
+#t3 {
+    font-size: 20px;
+    margin-top: -25px;
+    margin-left: 910px;
+    color: black;
+    font-family: Calibri;
+    margin-top: -45px;
+}
+
+#tes {
+    margin-left: 100px;
+}
+
+.txt4 {
+    margin-left: 250px;
+    font-family: Calibri;
+    font-size: 18px;
+    color: gray;
+}
+
+#fan {
+    margin-top: -150px;
+    margin-left: 500px;
+}
+
+.nome4 {
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 250px;
+}
+
+#aa {
+    font-family: Calibri;
+    color: black;
+    font-size: 37px;
+    margin-left: 100px;
+    margin-top: -30px;
+}
+
+#abe {
+    font-family: Calibri;
+    color: gray;
+    font-size: 20px;
+    margin-left: 750px;
+    margin-top: -50px;
+}
+
+.l5{
+    margin-top:0px;
+    color:black;
+    margin-left:-0px;
+}
+#conta{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#esc{
+    position: absolute;
+    margin-top: 50px;
+    margin-left:100px;
+    color:gray;
+}
+#vm{
+    margin-top: -17px;
+}
+
+.imp{
+    border:0px;
+    margin-left:120px;
+    position:absolute;
+    font-size:20px;
+    box-shadow:1px 5px 80px black;
+}
+
+.name {
+    width:400px;
+    margin-top: 200px;
+}
+
+.ee {
+    width: 400px;
+    margin-top: 250px;
+}
+#bot2{
+    margin-left:220px;
+    margin-top:400px;
+    box-sizing:border-box;
+    padding-left:50px;
+    width:200px;
+    height:70px;
+    padding-top:3px;
+    font-size:25px;
+    border:2px solid gray;
+}
+#bot2:hover{
+    border:2px solid white;
+   
+}
+#linha{
+    border-bottom: 2px dotted gray;
+    width:550px;
+    margin-left:100px;
+    margin-top:30px;
+}
+.material-icons{
+    color:#f2b513;
+    margin-left:100px;
+    margin-top:10px;
+}
+#elo{
+    color:gray;
+    font-size:20px;
+    margin-left:130px;
+    margin-top:-48px;
+}
+#ff{
+    color:gray;
+    font-size:20px;
+    margin-left:130px;
+    margin-top:-48px;
+}
+#ma{
+    
+    color:gray;
+    font-size:20px;
+    margin-left:130px;
+    margin-top:-50px;
+}
+#mapinha{
+    height:700px;
+    margin-left:700px;
+    margin-top:-655px;
+    position:absolute;
+    width:700px;
+
+}
+
+#mapa {
+    height: 600px;
+    margin-left: 700px;
+    margin-top: -80px;
+}
+
+.cinza {
+    width: 100%;
+    height: 500px;
+    background-color: #3c3c3c;
+    margin-top: 65px;
+}
+
+#logo2 {
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.titu {
+    font-family: Calibri;
+    font-size: 30px;
+    color: white;
+    margin-left: 500px;
+    margin-top: -30px;
+}
+
+#pg {
+    margin-left: 750px;
+    margin-top: -70px;
+}
+
+#new {
+    margin-left: 900px;
+    margin-top: -67px;
+}
+
+#fimt {
+    font-family: Calibri;
+    color: white;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.ic {
+    height: 30px;
+    width: 30px;
+    margin-left: 100px;
+}
+
+#insta {
+    margin-left: 20px;
+}
+
+#you {
+    margin-left: 20px;
+}
+
+#twi {
+    margin-left: 20px;
+}
+
+.ic1 {
+    height: 30px;
+    width: 30px;
+    margin-left: -100px;
+    margin-top: 200px;
+    position: absolute;
+}
+
+#ccc {
+    color: white;
+    position: absolute;
+    font-family: Calibri;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+#hor {
+    font-family: Calibri;
+    color: white;
+    font-size: 25px;
+    margin-left: 500px;
+    margin-top: -150px;
+}
+
+span {
+    color: gray;
+}
+
+.ps {
+    color: gray;
+    font-family: Calibri;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -250px;
+}
+
+#ab {
+    margin-top: -220px;
+}
+
+#ga {
+    margin-top: -190px;
+}
+
+#con {
+    margin-top: -160px;
+}
+
+.imp1 {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -250px;
+    background-color: rgba(0,0,0,0);
+    border: 0px solid white;
+    border-bottom: 2px solid white;
+}
+
+#bot3 {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -190px;
+}
+
+#bb {
+    font-family: Calibri;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -100px;
+}
+
+#ab {
+    font-family: Calibri;
+    color: gray;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -220px;
+}
+
+#vlad {
+    color: gray;
+    margin-left: 250px;
+    margin-top: -10px;
+}
